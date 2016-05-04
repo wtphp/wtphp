@@ -9,3 +9,7 @@ You want to add your own one? Create a snippet on http://3v4l.org and add it her
 * https://3v4l.org/J2MUF
 * https://3v4l.org/mkONI
 * https://3v4l.org/j1qUE
+* https://3v4l.org/2qdPp
+* https://3v4l.org/N5hXC
+* https://3v4l.org/0OKe3
+* https://3v4l.org/RfkY9
