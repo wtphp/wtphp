@@ -8,3 +8,4 @@ You want to add your own one? Create a snippet on http://3v4l.org and add it her
 * https://3v4l.org/HNlqG
 * https://3v4l.org/J2MUF
 * https://3v4l.org/mkONI
+* https://3v4l.org/j1qUE
