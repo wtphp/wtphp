@@ -13,3 +13,4 @@ You want to add your own one? Create a snippet on http://3v4l.org and add it her
 * https://3v4l.org/N5hXC
 * https://3v4l.org/0OKe3
 * https://3v4l.org/RfkY9
+* https://3v4l.org/0EAZe - who cares about class scope
