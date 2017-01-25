@@ -15,3 +15,4 @@ You want to add your own one? Create a snippet on http://3v4l.org and add it her
 * https://3v4l.org/RfkY9
 * https://3v4l.org/0EAZe - who cares about class scope
 * https://3v4l.org/ErEvB
+* https://3v4l.org/4clb9
