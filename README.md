@@ -5,8 +5,7 @@ Odd edges that make PHP the loved mess it is:
 
 You want to add your own one? Create a snippet on http://3v4l.org and add it here via a pull request.
 
-* https://3v4l.org/HNlqG
-* https://3v4l.org/J2MUF
+* https://3v4l.org/Bk4KF - Assignments in arguments without constructor
 * https://3v4l.org/mkONI
 * https://3v4l.org/j1qUE
 * https://3v4l.org/2qdPp
