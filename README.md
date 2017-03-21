@@ -17,3 +17,4 @@ You want to add your own one? Create a snippet on http://3v4l.org and add it her
 * https://3v4l.org/ErEvB
 * https://3v4l.org/4clb9
 * https://3v4l.org/f6B6D
+* https://3v4l.org/XGONZ - doubled implementation
