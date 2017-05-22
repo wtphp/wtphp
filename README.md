@@ -19,3 +19,4 @@ You want to add your own one? Create a snippet on http://3v4l.org and add it her
 * https://3v4l.org/XGONZ - doubled implementation
 * https://3v4l.org/vZ5Cn
 * https://3v4l.org/eoviV
+* https://3v4l.org/vQCck
